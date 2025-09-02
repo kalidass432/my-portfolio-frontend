@@ -1,0 +1,81 @@
+.con-container{
+    position: relative;
+    width: 100%;
+    height:109vh;
+    margin:0;
+    background: linear-gradient(90deg, rgba(142,46,125,255),rgba(76,42,170,255));
+}
+.con-title{
+    position: absolute;
+    text-align: center;
+    padding-left: 62%;
+    font-size: 40px;
+    color: #fff;
+    margin-top:7%;
+}
+.con-title span{
+    color:black ;
+}
+
+.con-info{
+        width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 13%;
+}
+.con-left{
+    width: 50%;
+ }
+
+.con-left img{
+    width: 90%;
+    height: 50%;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
+.con-right{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-right: 100px;
+    width: 50%;
+}
+.con-form{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.con-form input, .con-form textarea{
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    background: transparent;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 16px;
+    resize: none;
+}
+.con-form input:focus, .con-form textarea:focus{
+    outline: none;
+    border: 2px solid #fff;
+}
+
+.con-button{
+    padding: 10px 0;
+    width:20%;
+    align-items: center;
+    font-size: 16px;
+    background:transparent;
+    color:#fff;
+    border: 2px solid #fff;
+}
+
+.con-button:hover{
+    background:white;
+    color: black;
+    cursor: pointer;
+}
