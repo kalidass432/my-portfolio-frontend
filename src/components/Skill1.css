@@ -77,6 +77,7 @@
 }
 
 .skill-box ul li {
+    font-size: 0.9em;
   margin: 0.4rem 0;
   position: relative;
   padding-left: 10px;
@@ -97,3 +98,34 @@
     50% {transform: translateY(-8px);}
 }
 
+
+@media (max-width:768px){
+    .skill{
+        margin-top:-40px;
+        height:160vh;
+    }
+    .skill h2{
+        font-size: 25px;
+        margin: 60px 50px 0 -52px;
+    }
+    .skill p{
+        margin-right: 50px;
+        font-size: 0.5em;
+        margin-top: 110px;
+    }
+    .skill-list{
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+        margin:80% 0 0 -19%;
+    }
+         
+    .skill-box h3{
+        font-size: 1em;
+
+    }
+
+    .skill-box ul li{
+        font-size: 0.7em;
+    }
+}

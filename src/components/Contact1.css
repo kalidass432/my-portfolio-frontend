@@ -110,3 +110,14 @@
     text-size-adjust: bold;
     color:#bbb;
 }
+
+@media (max-width:768px){
+    .contact{
+        height:190vh;
+        padding: 60px;
+    }
+    .contact-container{
+        margin: 20px 0 0 20px;
+    }
+     
+}

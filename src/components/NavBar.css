@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    z-index: 100;
+    z-index: 1000;
     backdrop-filter: blur(4px);
 }
 h1 {
@@ -38,4 +38,28 @@ h1 {
 .navbar .nav-link:hover::before{
     width:100%;
 
+}
+
+@media (max-width:768px){
+    .header{
+       position: fixed;
+       padding: 0 390px 0 10px ;
+
+     }
+    
+
+    h1{
+        
+        font-size:12px;
+    }
+    .navbar {
+        
+        margin:15px;
+    }
+    .navbar .nav-link{
+        
+        font-size: 0.6em; 
+        margin-left:9px;
+    }
+    
 }

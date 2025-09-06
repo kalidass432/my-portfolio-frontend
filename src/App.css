@@ -18,10 +18,10 @@ a{
   text-decoration: none;
 }
 
-@media (max-width: 740px) {
+@media (max-width: 768px) {
   body {
     background-size: cover;
-    height: 200vh;
+    height: 120vh;
     width: 100vw;
   }
 }

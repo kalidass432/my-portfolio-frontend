@@ -36,8 +36,9 @@ const Educate = () => {
                      <img className="pic" src={img2} alt=""></img>
                    
                       <h3>Full Stack Development</h3>
-                      <p>Tech Mind InfoTech, Pudukkottai</p>
-                                          
+                      <p>Tech Mind InfoTech, Pudukkottai</p><br></br>
+                      <p>  </p><br></br>
+                      <p>  </p>                 
                 </div>
                 
                 
