@@ -75,11 +75,11 @@
 @media (max-width:768px){
     .education{
         height:210vh;
-        width: 138.5vw;
+        width: 138.56vw;
     }
     .education-nav h2{
         font-size: 25px;
-        padding: 60px 0 0 180px;
+        padding: 50px 0 0 180px;
     }
     .education-nav p{
         padding-left: 60px;

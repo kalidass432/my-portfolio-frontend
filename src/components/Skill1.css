@@ -103,22 +103,21 @@
     .skill{
         margin-top:-40px;
         height:160vh;
-        width: 125vw;
+        width: 138.56vw;
     }
     .skill h2{
-        font-size: 25px;
-        margin: 60px 50px 0 -52px;
+       font-size: 25px;
+       padding: 40px 0 0 220px;
     }
     .skill p{
-        margin-right: 50px;
-        font-size: 0.5em;
-        margin-top: 110px;
+        font-size: 0.8em;
+        padding: 50px 50px 0 60px;
     }
     .skill-list{
         display: flex;
         flex-direction: column;
-        gap: 40px;
-        margin:80% 0 0 -19%;
+        gap: 60px;
+        padding:210px 0 0 130px;
     }
          
     .skill-box h3{

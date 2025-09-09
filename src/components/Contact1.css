@@ -113,9 +113,10 @@
 
 @media (max-width:768px){
     .contact{
-        height:190vh;
-        width: 125vw;
-        padding: 60px;
+        height:150vh;
+        width: 138.56vw;
+        padding: 150px 60px;
+        margin-top: 2;
     }
     .contact-container{
         margin: 20px 0 0 20px;
