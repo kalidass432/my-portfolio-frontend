@@ -79,3 +79,9 @@
     color: black;
     cursor: pointer;
 }
+
+@media (max-width:768px){
+    .con-container{
+        width: 125vw;
+    }
+}

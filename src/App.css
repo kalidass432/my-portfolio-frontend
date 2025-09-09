@@ -12,6 +12,7 @@ body{
     color:#fff;  
     background:url('./Assets/banner-bg.png') no-repeat; 
     background-size: contain;
+    overflow-x: hidden;
 }
 
 a{
@@ -21,7 +22,8 @@ a{
 @media (max-width: 768px) {
   body {
     background-size: cover;
-    height: 120vh;
+    height: 150vh;
     width: 100vw;
+    overflow-x: hidden;
   }
 }

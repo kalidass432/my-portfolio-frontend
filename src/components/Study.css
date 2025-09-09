@@ -74,21 +74,23 @@
 
 @media (max-width:768px){
     .education{
-        height:150vh;
+        height:210vh;
+        width: 138.5vw;
     }
     .education-nav h2{
         font-size: 25px;
-        margin: 60px 50px 0 -75px;
+        padding: 60px 0 0 180px;
     }
     .education-nav p{
-        margin-right: 50px;
-        font-size: 0.5em;
-        margin-top: 110px;
+        padding-left: 60px;
+        font-size: 0.8em;
+        margin-top: 140px;
     }
     .education-content{
-        width: 130%;
+        width: 100%;
+        padding: 0;
+        margin-left:75px ;
         flex-direction: column;
-        margin:-55px 0 0 -80px;
     }
     .education-content h3{
         font-size: 0.9em;
