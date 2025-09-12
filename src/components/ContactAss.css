@@ -82,6 +82,41 @@
 
 @media (max-width:768px){
     .con-container{
-        width: 125vw;
+        height:140vh;
+        width: 138.56vw;
+    }
+    .con-title{
+        align-items: center;
+        font-size: 30px;
+        padding:60px 0 0 165px; 
+    }
+    .con-info{
+        flex-direction: column;
+    
+        
+    }
+    .con-left{
+         visibility: hidden;
+         opacity: 0;
+    }
+    .con-right{
+        padding:30px 50px 0 80px;
+        width: 100%;
+        
+    }
+    .con-button{
+        width: 40%;
+        margin: 0 0 0 110px;
+    }
+}
+
+@media (max-width:480px){
+     .con-title{
+        padding:60px 0 0 150px; 
+    } 
+
+     .con-button{
+        width: 40%;
+        margin: 0 0 0 95px;
     }
 }

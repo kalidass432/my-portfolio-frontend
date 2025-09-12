@@ -129,3 +129,17 @@
         font-size: 0.7em;
     }
 }
+
+@media (max-width:480px){
+    .skill{
+        height: 180vh;
+        
+    }
+    .skill h2{
+       padding: 40px 0 0 180px;
+    }
+    .skill-list{
+       padding:210px 0 0 100px;
+    }
+
+}

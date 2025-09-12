@@ -17,7 +17,7 @@ const Container = () =>{
                 <a className="con" href="/">Let's Connect</a>
                 <div className="social-media">
                 <div className="social">
-                     <a href="../portfolio" target="-blank" rel="noreferrer">
+                     <a href="linkedin.com/in/kali-dass-fullstack-developer" target="-blank" rel="noreferrer">
                      <FontAwesomeIcon icon={faLinkedin} />
                      </a>
                 </div>

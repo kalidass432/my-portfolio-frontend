@@ -135,3 +135,14 @@
     }
 
 }
+
+@media (max-width:480px){
+       .content{
+        width: 100%;
+        padding: 200px 0 0 120px;
+       }
+       .content h2{
+        font-size: 25px;
+        
+       }   
+}
