@@ -29,10 +29,10 @@ const Connect = () =>{
 
                 </div>
                 <div className="social-links">
-                    <a href="../portfolio" target="-blank" rel="noreferrer">
+                    <a href="https://linkedin.com/in/kali-dass-fullstack-developer" target="_blank" rel="noreferrer">
                         <FontAwesomeIcon icon={faLinkedin} />
                     </a>
-                    <a href="../portfolio" target="-blank" rel="noreferrer">
+                    <a href="https://github.com/kalidass432" target="_blank" rel="noreferrer">
                         <FontAwesomeIcon icon={faGithub} />
                     </a>
                     <a href="../portfolio" target="-blank" rel="noreferrer">

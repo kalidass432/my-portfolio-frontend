@@ -17,12 +17,12 @@ const Container = () =>{
                 <a className="con" href="/">Let's Connect</a>
                 <div className="social-media">
                 <div className="social">
-                     <a href="linkedin.com/in/kali-dass-fullstack-developer" target="-blank" rel="noreferrer">
+                     <a href="https://linkedin.com/in/kali-dass-fullstack-developer" target="_blank" rel="noreferrer">
                      <FontAwesomeIcon icon={faLinkedin} />
                      </a>
                 </div>
                  <div className="social">
-                     <a href="../portfolio" target="-blank" rel="noreferrer">
+                     <a href="https://github.com/kalidass432" target="_blank" rel="noreferrer">
                      <FontAwesomeIcon icon={faGithub} />
                      </a>
                 </div>
